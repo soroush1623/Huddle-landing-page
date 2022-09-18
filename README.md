@@ -19,7 +19,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://stellar-pie-5f7bf1.netlify.app/)
+- Live Site URL: (https://soroush1623.github.io/Huddle-landing-page/)
 
 ## Built with
 
