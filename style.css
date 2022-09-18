@@ -83,7 +83,7 @@ body{
 }
 
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 14px; text-align: center; 
 
 }
 .attribution a { color: yellowgreen }
@@ -112,5 +112,13 @@ body{
     }
     .main{
         flex-direction: row;
+    }
+    .social{
+        justify-content: right;
+        margin-right: 4rem;
+        margin-bottom: 0;
+    }
+    .btn{
+        padding: 0.9rem 4rem;
     }
 }
